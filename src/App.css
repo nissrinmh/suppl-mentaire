@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50px;
+  pointer-events: none;
+}
+
+.menu{
+  text-decoration:none;
+}
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+/* .button{
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding: 6px;
+  margin-right: 45px;
+  background-color: mediumorchid;
+}
+
+.but{
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding: 6px;
+  margin-right: 20px;
+  background-color: rgb(178, 168, 180);
+} */
+.cart{
+  width: 20px;
+  
+}
+/* #but1{
+  background-color: rgb(153, 64, 175);
+  color: white;
+  margin-left: 15px;
+}
+#but2{
+  background-color: rgb(206, 181, 212);
+  color: white;
+}
+.carte{
+  width: 60%;
+  margin-left: 20px;
+} */
+.p1{
+  border-radius: 5px;
+  background-color: rgb(206, 181, 212);
+  width: fit-content;
+  
+}
+.App-header {
+  background-color: rgb(37, 30, 39);
+  min-height: 55;
+  display: flex;
+  flex-direction: row;
+  /* /* align-items: center; */
+  justify-content: space-between; 
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+/* .div{
+  display: flex;
+  align-items: normal;
+} */
+.App-link {
+  color: #61dafb;
+  text-decoration: none;
+  margin: 10PX;
+  
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

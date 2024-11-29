@@ -1,0 +1,44 @@
+.div{
+    display: flex;
+    align-items: normal;
+  }
+.cart{
+    width: 20px;
+    
+}
+.button{
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 6px;
+    margin-right: 45px;
+    background-color: mediumorchid;
+  }
+  
+  .but{
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 6px;
+    margin-right: 20px;
+    background-color: rgb(178, 168, 180);
+  }
+  #but1{
+    background-color: rgb(153, 64, 175);
+    color: white;
+    margin-left: 15px;
+  }
+  #but2{
+    background-color: rgb(206, 181, 212);
+    color: white;
+  }
+  .carte{
+    width: 60%;
+    margin-left: 20px;
+    margin-top: 15%;
+    margin-bottom: 10%;
+  }
+  .p1{
+    border-radius: 5px;
+    background-color: rgb(206, 181, 212);
+    width: fit-content;
+    
+  }
