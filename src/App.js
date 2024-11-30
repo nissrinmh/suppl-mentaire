@@ -11,7 +11,7 @@ function App() {
     <Header/>
     <h1>Nouveaux Produits</h1>
     <Container/>
-    <Footer/>
+    <Footer name="nissrin mahan"/>
     </div>
       
    
